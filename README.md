@@ -20,15 +20,15 @@ github我也是第一次使用，好多功能都不太了解，github可以托�
 ***特别强调***
 #### (4)代码
 两种方式
-##### 1.反引号
+##### 1.反引号(line code)
 `this is a code`
 `#include<stdio.h>`
-##### 2.tab or 4 spaces
-    	int main()
-	    {
-		    printf("hello");
-	    	return 0;
-	    }
+##### 2.tab or 4 spaces(block code)
+	int main()
+	{
+		printf("hello world\n");
+		return 0;
+	}
 #### (5)换行
 在需要的地方  
 加2 spaces+enter即可。
