@@ -12,7 +12,7 @@ github我也是第一次使用，好多功能都不太了解，github可以托�
 "# head"
 "## subhead"
 #### (2)图片
-![insert picture](https://img-blog.csdn.net/20141121163821625?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvemhhb2thaXFpYW5nMTk5Mg==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
+![insert picture](http://www.hit.edu.cn/_upload/tpl/02/c8/712/template712/images/imgl1.png)
 感叹号"!"+[图片描述]+("图片链接")
 #### (3)强调
 *强调*
