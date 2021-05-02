@@ -70,9 +70,10 @@ Linux英文解释是Linux is not Unix. 它是一个完全开源的类Unix操作�
 2. `apt`,advanced packing tool的缩写，是一个软件包管理器。  
 常见apt命令：  
 >>`sudo apt update`:列出所有可更新的软件清单  
->>`sudo apt upgrade`:升级软件包
->>`sudo apt install <package_name>`:安装指定软件
->>`sudo apt update <package_name>`:更新指定软件
->>`sudo apt show <package_name>`:显示指定软件的版本等信息
->>`apt list --installed`:列出所有已安装的软件
->>`apt list --all-versions`:列出所有已安装的软件的版本信息
+>>`sudo apt upgrade`:升级软件包  
+>>`sudo apt install <package_name>`:安装指定软件  
+>>`sudo apt update <package_name>`:更新指定软件  
+>>`sudo apt show <package_name>`:显示指定软件的版本等信息  
+>>`apt list --installed`:列出所有已安装的软件  
+>>`apt list --all-versions`:列出所有已安装的软件的版本信息  
+***注意：带有sudo的命令需要输入密码，密码输入时屏幕上不显示，不要以为系统出问题了***
