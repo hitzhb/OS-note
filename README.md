@@ -54,5 +54,13 @@ ___
 ***
 ***以上9条语法应该足够记笔记了，markdown的语法就先简单学到这里，以后要用到其他的语法在进一步学习。***
 ***
-### 0.2.2 Linux系统常见命令
-我安装了VirtualBox虚拟机，在里边安了Ubuntu16.04。由于我本身学的是通信工程，学习操作系统对我来说还是有些难度，包括Linux常用命令，汇编等知识知之甚少，虽然以前学过汇编，但当时不求甚解，并没有掌握多少
+### 0.2.2 Linux系统基础知识
+我安装了VirtualBox虚拟机，在里边安了Ubuntu16.04。由于我本身学的是通信工程，学习操作系统对我来说还是有些难度，包括Linux常用命令，汇编等知识知之甚少，虽然以前学过汇编，但当时不求甚解，并没有掌握多少。现在简单学习一下Linux系统基础知识。
+#### (1) Linux由来
+Linux英文解释是Linux is not Unix. 它是一个完全开源的类Unix操作系统。实际上它是由Linus Bendict Torvalds出于个人爱好而编写的，受到了Minix和Unix操作系统的启发。
+#### (2) Linux安装
+一般有两种安装方案：  
+1. 虚拟机（对电脑配置要求较高）  
+2. 双系统（配置要求不高）
+这里我选择的是虚拟机安装，笔记本的系统是windows10。  
+首先可选的虚拟机软件有很多，包括VMware，VirtulBox等，这两款软件相对来说比较大，个人亲测，配置不是太高的笔记本建议选择VirtualBox,[官网下载](https://download.virtualbox.org/virtualbox/6.1.22/VirtualBox-6.1.22-144080-Win.exe)或[HIT镜像网站](https://mirrors.hit.edu.cn/virtualbox/)，VMware可能会比较卡，Linux发行版我选择的是[Ubuntu16.04LTS](https://mirrors.hit.edu.cn/#/home),直接选对应的desktop版本即可，server版本是给服务器用的，没有界面，亲测HIT镜像我那个站下载速度能达到10MB/s,可能是因为我用的校园网吧。
